@@ -1,10 +1,10 @@
 # Inicializo todas las variables a utilizar
 SUELDOJR = 30000
-EXTRAJR = SUELDOJR / 24 / 8
+EXTRAJR = SUELDOJR / 25 / 8 * 1.2
 SUELDOSSR = 45000
-EXTRASSR = SUELDOSSR / 24 / 8
+EXTRASSR = SUELDOSSR / 25 / 8 * 1.2
 SUELDOSR = 60000
-EXTRASR = SUELDOSR / 24 / 8
+EXTRASR = SUELDOSR / 25 / 8 * 1.2
 totalSueldosJr = 0
 totalSueldosSsr = 0
 totalSueldosSr = 0
